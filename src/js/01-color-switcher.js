@@ -30,3 +30,5 @@ function stopChangeColor() {
   btnStart.removeAttribute("disabled", false);
   btnStop.setAttribute("disabled", true);
 }
+
+// ====================================================
